@@ -130,8 +130,8 @@ export const mockProducts: Product[] = [
   {
     id: 'prod-03',
     slug: 'indo-western-bandhgala-blazer-sharara',
-    name: 'Nehru Collar Blazer & Sharara',
-    tagline: 'Architectural raw silk tailored blazer over cascading tiered sharara.',
+    name: "Women's Tailored Silk Blazer & Sharara Set",
+    tagline: 'Architectural raw silk tailored women’s blazer over cascading tiered sharara.',
     price: 440,
     category: 'Indo-Western',
     collection: 'Modern Indo-Western',
@@ -140,9 +140,9 @@ export const mockProducts: Product[] = [
       'https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=85',
       'https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=1200&q=85',
     ],
-    description: 'A striking synthesis of classic Indian royalty and sharp modern tailoring. Features a tailored pure raw silk jacket with Mandarin collar and antiqued brass buttons, styled over a fluid multi-tiered georgette sharara trouser.',
+    description: 'A striking synthesis of classic Indian royalty and sharp feminine tailoring. Features a tailored pure raw silk jacket with Mandarin collar and antiqued brass buttons, styled over a fluid multi-tiered georgette sharara trouser.',
     details: [
-      '2-Piece Ensemble: Tailored Bandhgala Jacket & Flared Sharara Pants',
+      '2-Piece Ensemble: Tailored Women’s Jacket & Flared Sharara Pants',
       'Structured shoulders with hand-carved heritage buttons',
       'Concealed side zipper on sharara with comfortable lining',
       'Interior pocket for luxury essentials',

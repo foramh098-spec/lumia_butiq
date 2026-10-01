@@ -17,7 +17,7 @@ export default function HomePage() {
       {/* 2. New Arrivals (4 Product Cards) */}
       <NewArrivalsSection />
 
-      {/* 3. Shop By Category (Women, Dresses, Outerwear) */}
+      {/* 3. Shop By Category (Women's Indian Couture & Handloom Sarees) */}
       <FeaturedCategories />
 
       {/* 4. Bespoke Custom Atelier Highlight */}
